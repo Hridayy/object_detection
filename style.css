@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+    background-position: fixed;
+}
+
+button {
+    width: 80%;
+    border-radius: 15px;
+}
+
+#from {
+    line-height: 3;
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+    color: aqua;
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
